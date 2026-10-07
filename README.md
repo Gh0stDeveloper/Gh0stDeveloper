@@ -125,11 +125,12 @@ I can read and understand a useful portion of technical English and documentatio
 
 ## GitHub Activity
 
-The primary statistics are generated through GitHub Actions and stored in this profile repository, reducing dependence on public third-party statistics endpoints.
-
 <div align="center">
 
-<img src="./metrics.profile.svg" width="760" alt="Ghost Developer GitHub profile metrics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gh0stDeveloper&theme=tokyonight" alt="Ghost Developer GitHub profile summary" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gh0stDeveloper&theme=tokyonight" alt="Ghost Developer GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gh0stDeveloper&theme=tokyonight" alt="Most committed languages" />
 
 </div>
 
