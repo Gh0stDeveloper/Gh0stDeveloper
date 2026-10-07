@@ -1,141 +1,139 @@
 <div align="center">
 
-<img src="https://github.com/Gh0stDeveloper.png" width="150" alt="Ghost Developer profile image" />
+<img src="https://github.com/Gh0stDeveloper.png" width="140" alt="Ghost Developer profile image" />
 
 # Ghost Developer
 
-### Full Stack, Android & Automation Developer
+### Full-Stack · Android · AI/MCP · Developer Tools
 
-Independent software developer focused on native Android applications, full-stack platforms, APIs, infrastructure automation, and maintainable technical systems.
+Independent software developer building native Android applications, developer tooling, AI-native MCP integrations, self-hosted backends, automation systems, and game-development infrastructure.
 
 [![GitHub](https://img.shields.io/badge/GitHub-@Gh0stDeveloper-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gh0stDeveloper)
 [![Telegram](https://img.shields.io/badge/Telegram-@Gh0stDeveloper-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gh0stDeveloper)
 [![Email](https://img.shields.io/badge/Email-ghostnexora%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghostnexora@gmail.com)
 
+**Open to freelance, contract, collaboration, and remote software-development opportunities.**
+
 </div>
 
 ---
 
-## About Me
+## About
 
-- I build complete products across **mobile, web, backend, APIs, storage, authentication, automation, and deployment**.
-- My primary mobile stack is **Kotlin, Jetpack Compose, Material 3, Media3, Room, DataStore, and Android services**.
-- I develop full-stack systems with **TypeScript, React, Next.js, Node.js, Supabase, PostgreSQL, and MongoDB**.
-- I work with **Python and Bash** for bots, CLI tools, deployment workflows, VPS automation, CI/CD, and project maintenance.
-- I value modular architecture, clear interfaces, maintainability, documentation, security, and reproducible builds.
-- Some of my current product work is maintained in private repositories, while selected tools and applications remain public.
+I design and build complete software products across **Android, web, backend, APIs, databases, CI/CD, self-hosted infrastructure, AI tooling, developer tooling, and game development**.
+
+My work is currently centered around the **Nexora** ecosystem: native Android products, AI-assisted development platforms, secure developer tools, local-first software, and self-hosted services.
+
+I prioritize:
+
+- maintainable architecture and clear boundaries;
+- reproducible builds and automated validation;
+- practical security and defensive engineering;
+- local-first and self-hosted infrastructure where appropriate;
+- product-focused interfaces instead of proof-of-concept UI;
+- documentation that makes projects understandable and maintainable.
+
+## Core Engineering Areas
+
+| Area | Technologies and focus |
+| --- | --- |
+| **Android** | Kotlin, Jetpack Compose, Material 3, Coroutines/Flow, Hilt, Room, DataStore, Android services |
+| **Full Stack** | TypeScript, JavaScript, React, Next.js, Node.js, REST APIs |
+| **Systems & Developer Tools** | Rust, C++, JNI, Go, Git, libgit2, CLI tooling |
+| **AI & Automation** | Model Context Protocol (MCP), AI-assisted engineering, multi-agent workflows, structured tool execution |
+| **Backend & Data** | PostgreSQL, MongoDB, Firebase Auth/FCM, Docker, self-hosted services |
+| **Infrastructure** | Linux, Ubuntu VPS, Nginx, Docker Compose, GitHub Actions, CI/CD, deployment automation |
+| **Game & 3D** | Godot, GDScript, Blender, Python automation, gameplay systems, asset pipelines |
+| **Security Engineering** | Application hardening, integrity, anti-tamper, secure authentication, secret handling, validation and threat modeling |
+
+## Featured Projects
+
+These are the projects that best represent my current engineering direction.
+
+| Project | What it demonstrates | Core stack |
+| --- | --- | --- |
+| **[Nexora Shield](https://github.com/Gh0stDeveloper/Nexora-Shield)** | Advanced Android application-protection platform focused on DEX transformation, selective encryption, integrity/anti-tamper, runtime protection, native hardening and per-build diversification. | Rust, Kotlin, Android, JNI/C++, GitHub Actions |
+| **[Nexora Git](https://github.com/Gh0stDeveloper/Nexora-Git)** | Native Android Git/GitHub workspace with a real on-device Git engine, code editing, GitHub REST/GraphQL integration, Actions, releases and a self-hosted authentication broker. | Kotlin, Compose, C++17, libgit2, JNI, Go, Docker |
+| **[Nexora Messenger](https://github.com/Gh0stDeveloper/Nexora-Messenger)** | Private Android messaging platform with phone authentication, encrypted message payloads, local persistence, push notifications and a self-hosted relay/backend. | Kotlin, Compose, Node.js, PostgreSQL, Firebase, Docker |
+| **[Nexora Godot MCP](https://github.com/Gh0stDeveloper/Nexora-Godot-MCP)** | Local-first MCP platform that lets AI systems work directly with Godot projects through structured, permission-aware and auditable operations. | Python, MCP, Godot, GDScript, C#, GitHub Actions |
+| **[Nexora Forge MCP](https://github.com/Gh0stDeveloper/MCP-Blender)** | AI-native Blender automation platform for structured 3D production, multi-agent workflows, device execution, versioned assets and human approval. | Python, Blender, MCP, Next.js, TypeScript, PostgreSQL |
+| **[NEXORA: LAST SIGNAL](https://github.com/Gh0stDeveloper/NEXORA-LAST-SIGNAL)** | Fully offline Android survival game with campaign systems, AI companions, zombies, bosses, weapons, progression, local saves and a mobile HUD. | Godot 4, GDScript, Android, GitHub Actions |
+
+### Other notable work
+
+**[NexoraPlayer](https://github.com/Gh0stDeveloper/NexoraPlayer)** · Android media player  
+**[GhostNexoraBot](https://github.com/Gh0stDeveloper/GhostNexoraBot)** · Multi-platform bot and automation platform  
+**[VirexaScreen](https://github.com/Gh0stDeveloper/VirexaScreen)** · Native Android screen recorder  
+**[NEXORA-DEADFALL](https://github.com/Gh0stDeveloper/NEXORA-DEADFALL)** · Godot multiplayer survival project
+
+## AI-Assisted Engineering
+
+**Practical level: Advanced**
+
+I use AI as an engineering accelerator across real projects rather than only for isolated code generation. My workflow includes:
+
+- decomposing large products into phases, subsystems and verifiable milestones;
+- architecture and API design;
+- implementation planning and code review;
+- debugging build, CI/CD and integration failures;
+- refactoring and documentation;
+- designing MCP servers, AI tool interfaces and multi-agent workflows;
+- validating generated changes against source code, tests, build output and runtime constraints.
+
+Projects such as **Nexora Forge MCP** and **Nexora Godot MCP** also involve building software specifically for structured AI-to-application interaction.
+
+## Languages
+
+| Language | Level |
+| --- | --- |
+| **Spanish** | Native |
+| **English** | Basic working proficiency — self-assessed around **A1**, with stronger technical reading and comprehension than spoken conversation |
+
+I can read and understand a useful portion of technical English and documentation, while actively improving conversational fluency.
 
 ## Current Focus
 
-- Native Android products with modern Compose-based interfaces and background services.
-- Full-stack applications, REST APIs, authentication, databases, and deployment infrastructure.
-- Bash and Python tooling for Linux, Ubuntu VPS, Termux, and automated server provisioning.
-- GitHub Actions workflows for validation, builds, testing, releases, and controlled migrations.
-- Security engineering, encryption, diagnostics, and assessment tooling for authorized environments.
-- Maintaining projects under the **Nexora**, **Ghost Nexora**, and **Virexa** brands.
-
-## Selected Public Work
-
-| Project | Description | Main technologies |
-|---|---|---|
-| [Porno-OS / Hex Tunnel Script](https://github.com/Gh0stDeveloper/Porno-OS) | Active contribution to a Bash-based VPS automation system. Current work includes modularization, CI migration workflows, syntax validation, Python build tooling, tests, and secret scanning. | Bash, Python, GitHub Actions, Linux, VPS automation |
-| [Virexa Screen](https://github.com/Gh0stDeveloper/VirexaScreen) | Native Android screen recorder with floating controls, recording management, foreground services, and a Compose-based interface. | Kotlin, Jetpack Compose, MediaProjection, Coroutines, DataStore |
-| [Ghost Nexora VPN](https://github.com/Gh0stDeveloper/GhostNexoraVPN) | Android VPN profile manager with TUN integration, import/export workflows, logs, persistent services, and reactive state management. | Kotlin, Compose, VpnService, Hilt, Room, StateFlow |
-| [Tsukasa Yusaki Security Framework](https://github.com/Gh0stDeveloper/tsukasa-yusaki-framework) | Python framework for authorized security assessments, protocol analysis, certificate validation, and structured reporting. | Python, HTTP/HTTPS, SMTP, SSL/TLS |
-| [DECODE](https://github.com/Gh0stDeveloper/DECODE) | Collection of Python utilities and automation workflows for processing and analyzing structured configuration data. | Python, CLI, automation |
-
-## Open-Source Contribution
-
-I am currently contributing to the `Porno-OS` working repository, which is based on the **Hex Tunnel Script** project maintained by **JotchuaDevz**.
-
-My recent contribution work includes:
-
-- introducing a controlled modular migration workflow;
-- coordinating generated source changes through GitHub Actions;
-- validating Bash entry points and generated modules with `bash -n`;
-- integrating Python build checks and unit tests;
-- adding secret-scanning steps before generated changes are committed;
-- improving the migration path for legacy TLS-related material;
-- preparing the installer for a more maintainable modular architecture.
+- Building a cohesive ecosystem of Android and developer tools under **Nexora**.
+- AI-native developer tooling with **MCP**, structured automation and human-controlled workflows.
+- Self-hosted infrastructure using Linux, PostgreSQL, Docker and Nginx.
+- Native Android products with Kotlin and Jetpack Compose.
+- Godot game development and 3D production pipelines.
+- Security-focused software with measurable validation instead of marketing claims.
 
 ## Technology Stack
 
-### Android & Mobile
+<div align="center">
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material%203-757575?style=flat-square&logo=materialdesign&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-
-### Frontend & Full Stack
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Backend, Data & Automation
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### Infrastructure & Tooling
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-
-## Engineering Approach
-
-```text
-Product scope       -> Android, web, APIs, databases, automation, and deployment
-Architecture        -> Modular systems, MVVM, repositories, and clear boundaries
-Automation          -> Builds, validation, tests, releases, and migration workflows
-Infrastructure      -> Vercel, Railway, Linux, Ubuntu VPS, Docker, and Termux
-Quality             -> Error analysis, documentation, maintainability, and security checks
-Design              -> Modern, minimal, responsive, and product-focused interfaces
-Security            -> Authorized use, least privilege, validation, and secret protection
-```
-
-## GitHub Analytics
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Gh0stDeveloper&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15)
 
 </div>
 
-### 📊 Profile Statistics
+## GitHub Activity
+
+The primary statistics are generated through GitHub Actions and stored in this profile repository, reducing dependence on public third-party statistics endpoints.
 
 <div align="center">
 
-![Ghost Developer GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gh0stDeveloper&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true)
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gh0stDeveloper&theme=tokyonight)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gh0stDeveloper&theme=tokyonight" alt="Repositories per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gh0stDeveloper&theme=tokyonight" alt="Most committed languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gh0stDeveloper&theme=tokyonight" alt="GitHub profile statistics" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gh0stDeveloper&theme=tokyonight&utcOffset=-6" alt="Productive time" />
+<img src="./metrics.profile.svg" width="760" alt="Ghost Developer GitHub profile metrics" />
 
 </div>
 
-### 📅 Isometric Commit Calendar
+### Isometric Commit Calendar
 
 <div align="center">
 
@@ -145,26 +143,17 @@ Security            -> Authorized use, least privilege, validation, and secret p
 
 The calendar is generated automatically through GitHub Actions and refreshed every day.
 
----
-
-## 📈 GitHub Activity Graph
-
-[![Ghost Developer's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gh0stDeveloper&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## Contact
 
 - GitHub: [@Gh0stDeveloper](https://github.com/Gh0stDeveloper)
 - Telegram: [@Gh0stDeveloper](https://t.me/Gh0stDeveloper)
 - Telegram channel: [@GhostDeve](https://t.me/GhostDeve)
-- Community: [@CodeBreakersHub](https://t.me/CodeBreakersHub)
 - Professional email: [ghostnexora@gmail.com](mailto:ghostnexora@gmail.com)
 
 ---
 
 <div align="center">
 
-**Building useful products, improving them one version at a time.**
+**Building complete products, developer tools, and AI-assisted engineering systems.**
 
 </div>
