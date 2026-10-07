@@ -153,26 +153,6 @@ The calendar is generated automatically through GitHub Actions and refreshed eve
 
 ---
 
-### ✍️ Random Dev Quote
-
-<div align="center">
-
-![Random Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-### 🔝 Top Contributed Repositories
-
-<div align="center">
-
-![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=Gh0stDeveloper&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
 ## Contact
 
 - GitHub: [@Gh0stDeveloper](https://github.com/Gh0stDeveloper)
@@ -186,7 +166,5 @@ The calendar is generated automatically through GitHub Actions and refreshed eve
 <div align="center">
 
 **Building useful products, improving them one version at a time.**
-
-Last updated: July 2026
 
 </div>
