@@ -18,11 +18,22 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  isometric-calendar:
+  profile-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
 
     steps:
+      - name: Generate profile overview
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          committer_token: ${{ github.token }}
+          user: Gh0stDeveloper
+          filename: metrics.profile.svg
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: America/Mexico_City
+
       - name: Generate isometric commit calendar
         uses: lowlighter/metrics@latest
         with:
