@@ -1,86 +1,113 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/139102805?v=4" width="126" alt="Ghost Developer — GitHub profile photo" />
+<img src="https://avatars.githubusercontent.com/u/139102805?v=4" width="124" alt="Ghost Developer profile picture" />
 
 # Ghost Developer
 
-### Android Developer · Kotlin & Jetpack Compose
+### Android · Full-stack · Security engineering · Developer tools
 
-**Desarrollador independiente de aplicaciones Android y herramientas para desarrolladores.**  
-*Independent Android developer focused on Kotlin, Jetpack Compose, native integrations and developer tooling.*
+**Desarrollo aplicaciones, herramientas y servicios enfocados en Android, seguridad y automatización.**  
+**I build Android applications, security-oriented tools, and full-stack software.**
 
-[**Portfolio / Portafolio**](https://ghostdeveloper.vercel.app/) · [**Projects / Proyectos**](https://ghostdeveloper.vercel.app/proyectos) · [**Contact / Contacto**](https://ghostdeveloper.vercel.app/contacto)
+[![GitHub](https://img.shields.io/badge/GitHub-Public%20Projects-181717?logo=github)](https://github.com/Gh0stDeveloper?tab=repositories)
+[![Kotlin](https://img.shields.io/badge/Android-Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://github.com/Gh0stDeveloper?tab=repositories)
+[![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)](https://github.com/Gh0stDeveloper?tab=repositories)
 
-[![Android](https://img.shields.io/badge/Focus-Android%20%7C%20Kotlin-3DDC84?logo=android&logoColor=white)](https://ghostdeveloper.vercel.app/tecnologias)
-[![CI](https://img.shields.io/badge/Workflow-Code%20%E2%86%92%20CI%20%E2%86%92%20Deploy-3178C6?logo=githubactions&logoColor=white)](https://github.com/Gh0stDeveloper?tab=repositories)
+[**Portfolio / Portafolio**](https://ghostdeveloper.vercel.app/) · [**All public repositories / Repositorios públicos**](https://github.com/Gh0stDeveloper?tab=repositories) · [**Contact / Contacto**](https://t.me/GhostDeve)
 
 </div>
 
 ---
 
-## About / Sobre mí
+## Español
 
-**ES.** Desarrollo aplicaciones Android nativas, interfaces con Jetpack Compose e integraciones con servicios y bibliotecas nativas. Mis proyectos abarcan clientes Git, reproducción multimedia, mensajería y utilidades Android. También trabajo con plataformas web, herramientas de desarrollo y automatización mediante MCP. Me interesa documentar cómo funcionan las soluciones, qué limitaciones tienen y cómo se validan.
+Soy desarrollador independiente y trabajo con **Android nativo (Kotlin, Jetpack Compose, C++/JNI)**, aplicaciones web, APIs, herramientas de automatización y seguridad de software.
 
-**EN.** I build native Android applications with Kotlin and Jetpack Compose, including native libraries, background services and API integrations. My other work includes full-stack systems, developer tooling and Model Context Protocol (MCP) integrations. I emphasize reproducible builds, clear documentation and explicit project limitations.
+En este perfil reúno mis repositorios públicos y proyectos de investigación y desarrollo. Cada proyecto tiene su propio alcance: algunos cuentan con herramientas listas para instalar o desplegar y otros son **proyectos en construcción o pruebas técnicas**. El estado de un repositorio no debe confundirse con la disponibilidad de un servicio alojado.
 
-**Primary focus / Especialidad principal:** Android · Kotlin · Jetpack Compose  
-**Secondary / Complementarias:** TypeScript/Next.js · Node.js/APIs · Python/MCP · Rust/C++/JNI  
-**Location / Ubicación:** Mexico · open to remote collaboration
+Trabajo con integración de sistemas, control de versiones, pruebas automatizadas y desarrollo de soluciones que puedan verificarse de forma reproducible.
 
-## Selected engineering work / Proyectos seleccionados
+## English
 
-The list prioritizes Android engineering and verifiable public repositories. An entry in this list **does not imply a public stable release or production deployment**.
+I'm an independent developer working on **native Android applications (Kotlin, Jetpack Compose, C++/JNI)**, web platforms, APIs, automation tools, and software security.
 
-| Project | What it demonstrates | Source |
+This profile is my central public project directory. It includes runnable tools, engineering prototypes, and ongoing projects. **A public repository is not necessarily a hosted service or a production release.** I keep each project's current status in its own README.
+
+My work emphasizes system integration, version control, automated validation, and reproducible development.
+
+## Selected projects / Proyectos destacados
+
+| Project / Proyecto | Description / Descripción | Status / Estado |
 | --- | --- | --- |
-| **Nexora Git** | Android Git/GitHub client; Kotlin/Compose UI, Git integration, native libgit2/JNI, authentication and build workflows. | [Repository](https://github.com/Gh0stDeveloper/Nexora-Git) |
-| **Virexa Screen** | Android screen recording with MediaProjection, a foreground service, floating controls and a Compose interface. | [Repository](https://github.com/Gh0stDeveloper/VirexaScreen) |
-| **Nexora Messenger** | Android messaging client and self-hosted relay design, local persistence and encrypted-payload workflows; under development. | [Repository](https://github.com/Gh0stDeveloper/Nexora-Messenger) |
-| **Nexora Shield** | Android application-hardening tooling across Rust, Kotlin, APK/DEX analysis and integrity-related checks; release readiness is tracked separately. | [Repository](https://github.com/Gh0stDeveloper/Nexora-Shield) |
-| **Ghost Nexora Bot** | TypeScript/Node.js automation, a Next.js dashboard and a self-hosted application stack. | [Repository](https://github.com/Gh0stDeveloper/GhostNexoraBot) |
-| **Nexora Forge MCP** | Python/MCP tooling for structured Blender operations, access boundaries and automation workflows. | [Repository](https://github.com/Gh0stDeveloper/MCP-Blender) |
+| [Nexora Git](https://github.com/Gh0stDeveloper/Nexora-Git) | Native Android Git/GitHub workspace with a local Git engine / Cliente Git/GitHub Android con motor Git local | Android development / Desarrollo Android |
+| [Nexora Shield](https://github.com/Gh0stDeveloper/Nexora-Shield) | Android hardening, integrity analysis, RASP and APK/DEX tooling / Protección e integridad de aplicaciones | **Project under construction / En construcción** |
+| [Ghost WiFi Auditor](https://github.com/Gh0stDeveloper/Ghost-Wifi-Auditor) | Wireless diagnostics and authorized capture analysis / Diagnóstico inalámbrico y análisis autorizado | **Project under construction / En construcción** |
+| [SMART UNI](https://github.com/Gh0stDeveloper/smart-uni) | Offline-first academic desktop prototype and supporting services / Prototipo académico de escritorio | **Project under construction / En construcción** |
+| [Nexora Messenger](https://github.com/Gh0stDeveloper/Nexora-Messenger) | Android messaging experiment / Experimento de mensajería Android | **Test project / Proyecto de prueba** |
+| [Ghost Nexora Bot](https://github.com/Gh0stDeveloper/GhostNexoraBot) | Self-hosted WhatsApp automation with optional dashboard and AI / Automatización de WhatsApp autohospedada | **Deployable source, not currently hosted / Código desplegable, sin servidor activo** |
+| [Virexa Screen](https://github.com/Gh0stDeveloper/VirexaScreen) | Native Android screen recording / Grabación de pantalla Android | Public source / Código público |
+| [Nexora Forge MCP](https://github.com/Gh0stDeveloper/MCP-Blender) | AI/Blender automation using MCP / Automatización de Blender mediante MCP | Public source / Código público |
+| [Nexora Godot MCP](https://github.com/Gh0stDeveloper/Nexora-Godot-MCP) | Structured AI automation for Godot / Automatización para Godot | Public source / Código público |
 
-**Private development / Trabajo privado:** [Nexora Player](https://ghostdeveloper.vercel.app/proyectos/nexora-player) · [NEXORA: DEADFALL](https://ghostdeveloper.vercel.app/proyectos/deadfall). Their GitHub repositories are private; the linked portfolio pages are public project summaries, **not public source code**.
+### Private projects / Proyectos privados
 
-More work: [All portfolio projects](https://ghostdeveloper.vercel.app/proyectos) · [GitHub repositories](https://github.com/Gh0stDeveloper?tab=repositories)
+**SP-DECODE**, **Nexora Player**, and other private developments are part of my broader engineering work. Their source code is **not publicly accessible on GitHub**, and I do not present private repositories as public downloads.
 
-## Technical focus / Áreas de trabajo
+## Public repository directory / Directorio de repositorios públicos
 
-| Priority | Technologies and engineering areas |
+Browse the categories below, or open [all public GitHub repositories](https://github.com/Gh0stDeveloper?tab=repositories). The directory is a navigation index, not a claim that every repository is a finished product.
+
+<details>
+<summary><strong>Android, security and applications</strong> (11)</summary>
+
+[Nexora-Git](https://github.com/Gh0stDeveloper/Nexora-Git) · [Nexora-Shield](https://github.com/Gh0stDeveloper/Nexora-Shield) · [Nexora-Messenger](https://github.com/Gh0stDeveloper/Nexora-Messenger) · [GhostNexoraVPN](https://github.com/Gh0stDeveloper/GhostNexoraVPN) · [Ghost-Wifi-Auditor](https://github.com/Gh0stDeveloper/Ghost-Wifi-Auditor) · [VirexaScreen](https://github.com/Gh0stDeveloper/VirexaScreen) · [NexoraAI](https://github.com/Gh0stDeveloper/NexoraAI) · [smart-uni](https://github.com/Gh0stDeveloper/smart-uni) · [NEXORA-LAST-SIGNAL](https://github.com/Gh0stDeveloper/NEXORA-LAST-SIGNAL) · [Old-games](https://github.com/Gh0stDeveloper/Old-games) · [Tes-ipa](https://github.com/Gh0stDeveloper/Tes-ipa)
+
+</details>
+
+<details>
+<summary><strong>Bots, automation and communities</strong> (13)</summary>
+
+[GhostNexoraBot](https://github.com/Gh0stDeveloper/GhostNexoraBot) · [GamesWhats](https://github.com/Gh0stDeveloper/GamesWhats) · [Bot-Terabox](https://github.com/Gh0stDeveloper/Bot-Terabox) · [TeleBotGen](https://github.com/Gh0stDeveloper/TeleBotGen) · [CodeCipherBot](https://github.com/Gh0stDeveloper/CodeCipherBot) · [Decode-bot](https://github.com/Gh0stDeveloper/Decode-bot) · [ChatGPT-Telegram-bot](https://github.com/Gh0stDeveloper/ChatGPT-Telegram-bot) · [DomainSpyBot](https://github.com/Gh0stDeveloper/DomainSpyBot) · [telegram-security-scanner](https://github.com/Gh0stDeveloper/telegram-security-scanner) · [cyberguard-ai](https://github.com/Gh0stDeveloper/cyberguard-ai) · [adminguard-bot](https://github.com/Gh0stDeveloper/adminguard-bot) · [nasa-yuzaki-bot](https://github.com/Gh0stDeveloper/nasa-yuzaki-bot) · [rem-limit-file](https://github.com/Gh0stDeveloper/rem-limit-file)
+
+</details>
+
+<details>
+<summary><strong>Web, infrastructure and developer tools</strong> (13)</summary>
+
+[MCP-Blender](https://github.com/Gh0stDeveloper/MCP-Blender) · [Nexora-Godot-MCP](https://github.com/Gh0stDeveloper/Nexora-Godot-MCP) · [HexTunnelWeb](https://github.com/Gh0stDeveloper/HexTunnelWeb) · [GhostDeveloperLicenseServer](https://github.com/Gh0stDeveloper/GhostDeveloperLicenseServer) · [MinecraftServer](https://github.com/Gh0stDeveloper/MinecraftServer) · [webvulnscan](https://github.com/Gh0stDeveloper/webvulnscan) · [zero-two-toolkit](https://github.com/Gh0stDeveloper/zero-two-toolkit) · [pyfuscator-pro](https://github.com/Gh0stDeveloper/pyfuscator-pro) · [DECODE](https://github.com/Gh0stDeveloper/DECODE) · [Encode-python](https://github.com/Gh0stDeveloper/Encode-python) · [Email-Generator](https://github.com/Gh0stDeveloper/Email-Generator) · [Facebook-download](https://github.com/Gh0stDeveloper/Facebook-download) · [sistema-solar-3d](https://github.com/Gh0stDeveloper/sistema-solar-3d)
+
+</details>
+
+<details>
+<summary><strong>Experiments and archived work</strong> (9)</summary>
+
+[Novia](https://github.com/Gh0stDeveloper/Novia) · [followers-tiktok](https://github.com/Gh0stDeveloper/followers-tiktok) · [following-Instagram](https://github.com/Gh0stDeveloper/following-Instagram) · [SP-PHISHING](https://github.com/Gh0stDeveloper/SP-PHISHING) · [netstorm-pro](https://github.com/Gh0stDeveloper/netstorm-pro) · [tsukasa-yusaki-framework](https://github.com/Gh0stDeveloper/tsukasa-yusaki-framework) · [Porno-OS](https://github.com/Gh0stDeveloper/Porno-OS) · [Porno-OS-mirror](https://github.com/Gh0stDeveloper/Porno-OS-mirror) · [Gh0stDeveloper](https://github.com/Gh0stDeveloper/Gh0stDeveloper)
+
+</details>
+
+## Technologies / Tecnologías
+
+| Area / Área | Tools / Herramientas |
 | --- | --- |
-| **Core — Android** | Kotlin, Jetpack Compose, Android SDK, Coroutines/Flow, Room, DataStore, foreground services, MediaProjection, JNI |
-| **Supporting — Web/backend** | TypeScript, JavaScript, React, Next.js, Node.js, APIs, PostgreSQL |
-| **Supporting — Native/dev tools** | C++, Rust, Git, libgit2, Go, Python, Linux, GitHub Actions |
-| **Exploratory/specialized** | MCP, Blender, Godot, GDScript, self-hosted automation |
+| Android | Kotlin, Jetpack Compose, Android SDK, Coroutines, JNI, C++ |
+| Backend and web | TypeScript, JavaScript, Next.js, Node.js, Python, APIs, PostgreSQL |
+| Native and security | Rust, C++, cryptography, Android Keystore, integrity testing |
+| Automation | GitHub Actions, Git, Linux, Docker, MCP, Blender, Godot |
 
-Technologies are grouped by relevance to the **current professional focus**, not presented as equally advanced competencies. See the relevant repository for implementation details and verification.
+## Collaboration / Colaboración
 
-## Engineering practice / Forma de trabajo
+**ES:** Estoy disponible para conversar sobre desarrollo Android, servicios backend, automatización e integraciones técnicas. Las demostraciones de seguridad se evalúan con un alcance definido y pruebas reproducibles.
 
-- Define architecture and scope; split work into reviewable changes.
-- Use version control, issue tracking, CI builds, tests and explicit limitations where implemented.
-- Work with AI-assisted development and structured tool orchestration; generated suggestions still require review, reproducible checks and manual validation.
-- Distinguish planned functionality, work in progress, release candidates and validated releases. **A passing build is not proof of production readiness.**
-
-## Languages / Idiomas
-
-- **Spanish / Español:** Native / Nativo.
-- **English / Inglés:** Elementary (self-reported CEFR A1). I can work with technical documentation; this does not imply conversational fluency.
+**EN:** I'm available to discuss Android development, backend services, automation, and technical integrations. Security demonstrations are scoped and backed by reproducible evidence.
 
 ## Contact / Contacto
 
-- **Portfolio:** [ghostdeveloper.vercel.app](https://ghostdeveloper.vercel.app/)
-- **Email:** [ghostnexora@gmail.com](mailto:ghostnexora@gmail.com)
-- **Telegram:** [@Gh0stDeveloper](https://t.me/Gh0stDeveloper)
-- **WhatsApp and other channels:** [Contact page](https://ghostdeveloper.vercel.app/contacto)
-
-*Available to discuss freelance projects, technical collaborations and remote opportunities.*
+[**Telegram — @GhostDeve**](https://t.me/GhostDeve) · [**GitHub — @Gh0stDeveloper**](https://github.com/Gh0stDeveloper) · [**Portfolio**](https://ghostdeveloper.vercel.app/)
 
 ---
 
 <div align="center">
 
-**Android-first engineering. Clear scope, testable software and documented work.**
+**Ghost Developer — building, testing, and improving software.**
 
 </div>
